@@ -3,6 +3,8 @@ adding another line. Below is a bug fix
 
 This is a bug fix.
 
+another bug fix
+
 new component add
 
 feature1
