@@ -12,3 +12,5 @@ feature1
 here is some footer text
 
 line 2 to stash
+
+here are some fixes requiredgid for dark mode
