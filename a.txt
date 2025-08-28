@@ -2,3 +2,5 @@ hello, this is file one, its a really nice file
 adding another line. Below is a bug fix
 
 This is a bug fix.
+
+new component add
