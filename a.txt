@@ -1,2 +1,4 @@
 hello, this is file one, its a nice file
 adding another line
+
+This is a bug fix.
