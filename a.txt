@@ -8,3 +8,7 @@ another bug fix
 new component add
 
 feature1
+
+here is some footer text
+
+line 2 to stash
