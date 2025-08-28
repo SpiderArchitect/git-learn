@@ -4,3 +4,5 @@ adding another line. Below is a bug fix
 This is a bug fix.
 
 new component add
+
+feature1
